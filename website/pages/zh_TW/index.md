@@ -10,8 +10,8 @@ primaryColorScheme: "dark" # dark | light
 secondaryColorScheme: "light"
 cuid: ""
 ruid: ""
-orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b"
-tableReservationLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b&reservation=true&client_is_mobile=true"
+orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b"
+tableReservationLink: ""
 tel: "415-579-3688"
 
 # banner:
@@ -90,7 +90,7 @@ sections:
     tableReservationBtnInsteadText: ""
 
     btn1Text: "在線訂餐"
-    btn1Href: "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b"
+    btn1Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b"
     btn2Text: "電話: (415) 579-3688"
     btn2Href: "tel:415-579-3688"
 
