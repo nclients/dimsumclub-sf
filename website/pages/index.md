@@ -14,16 +14,16 @@ orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?resta
 # tableReservationLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b&reservation=true&client_is_mobile=true"
 tel: "415-579-3688"
 
-# banner:
-#   text:
-#     # - boldText: "🥳 Special Offer"
-#     - boldText: "20% off cash discount"
-#     - text: " on xxx"
-#     - smText: ""
-#   # add more text...
-#   textColor: "#ffffff"
-#   bgColor: "#E7383D"
-#   bgOpacity: "1" # 0~1
+banner:
+  text:
+    - boldText: "🥳 Happy New Year!"
+    - boldText: "We will be open as usual on the first day of the Lunar New Year (Tuesday) from 10:00 AM to 3:00 PM."
+    - text: ""
+    - smText: ""
+  # add more text...
+  textColor: "#ffffff"
+  bgColor: "#E7383D"
+  bgOpacity: "1" # 0~1
 
 # header
 header:
