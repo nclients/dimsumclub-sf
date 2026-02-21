@@ -14,16 +14,16 @@ orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?resta
 tableReservationLink: ""
 tel: "415-579-3688"
 
-banner:
-  text:
-    - boldText: "🥳 新年快樂！"
-    - boldText: "本店於農曆初一（週二）10:00 AM – 3:00 PM 正常營業。"
-    # - text: " on xxx"
-    - smText: ""
-  # add more text...
-  textColor: "#ffffff"
-  bgColor: "#E7383D"
-  bgOpacity: "1" # 0~1
+# banner:
+#   text:
+#     - boldText: "🥳 新年快樂！"
+#     - boldText: "本店於農曆初一（週二）10:00 AM – 3:00 PM 正常營業。"
+#     # - text: " on xxx"
+#     - smText: ""
+#   # add more text...
+#   textColor: "#ffffff"
+#   bgColor: "#E7383D"
+#   bgOpacity: "1" # 0~1
 
 # header
 header:
