@@ -39,9 +39,9 @@ header:
   menuTextColor: "#000"
   menu:
     - { text: "Home", link: "/" }
-    - { text: "Gallery", link: "#gallery" }
-    - { text: "About Us", link: "#about-us" }
-    - { text: "Contact Us", link: "#contact-us" }
+    - { text: "Gallery", link: "/#gallery" }
+    - { text: "About Us", link: "/#about-us" }
+    - { text: "Contact Us", link: "/#contact-us" }
     - { text: "中文", link: "/zh_TW" }
 
   addOrderOnlineBtn: false
@@ -302,6 +302,7 @@ sections:
 #     buttonText: ""
 
 footer:
+  cookie: true
   mode: 1 # 1
   noMarginTop: true
   bgImg: "gallery2/001_Dim Sum Club interior.webp"
