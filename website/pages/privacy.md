@@ -1,7 +1,7 @@
 ---
 layout: "ssg-theme-astro/layouts/main.astro" # This line of code should remain unchanged.
 tag: ""
-title: "Dim Sum Club 點心薈 - Best Food Today"
+title: "Dim Sum Club 點心薈"
 favicon: "favicon.ico" #ico is best
 logo: "點心薈LOGO-定.webp"
 primaryColor: "#7E1C1D" # logo color
