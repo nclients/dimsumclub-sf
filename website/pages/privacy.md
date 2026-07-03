@@ -1,6 +1,6 @@
 ---
 layout: "ssg-theme-astro/layouts/main.astro" # This line of code should remain unchanged.
-tag: ""
+tag: "GTM-5X48JDV2"
 title: "Dim Sum Club 點心薈"
 favicon: "favicon.ico" #ico is best
 logo: "點心薈LOGO-定.webp"
@@ -60,6 +60,7 @@ header:
 sections:
   - type: "privacy"
 footer:
+  cookie: true
   mode: 1 # 1
   noMarginTop: true
   bgImg: "gallery2/001_Dim Sum Club interior.webp"
