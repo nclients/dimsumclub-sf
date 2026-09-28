@@ -12,7 +12,7 @@ cuid: ""
 ruid: ""
 orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b"
 # tableReservationLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b&reservation=true&client_is_mobile=true"
-tel: "415-579-3688"
+tel: "415-592-8938"
 address: 2237 Taraval St, San Francisco, CA 94116
 creationDate: 1 Jan 2025
 

@@ -12,7 +12,7 @@ cuid: ""
 ruid: ""
 orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b"
 tableReservationLink: ""
-tel: "415-579-3688"
+tel: "415-592-8938"
 
 # banner:
 #   text:
@@ -91,8 +91,8 @@ sections:
 
     btn1Text: "在線訂餐"
     btn1Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b"
-    btn2Text: "電話: (415) 579-3688"
-    btn2Href: "tel:415-579-3688"
+    btn2Text: "電話: (415) 592-8938"
+    btn2Href: "tel:415-592-8938"
 
     bannerImg: ""
     imgPosition: "imgLeft" # imgLeft | imgRight
@@ -284,7 +284,7 @@ sections:
     iframeUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.611833512855!2d-122.42643388796009!3d37.799135671862416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808580e7fe35ab13%3A0x1bbee07675c9621b!2sDim%20Sum%20Club!5e0!3m2!1szh-CN!2sca!4v1731542744169!5m2!1szh-CN!2sca"
     addTelBtn: true
     tel: ""
-    telInsteadText: "電話：415-579-3688"
+    telInsteadText: "電話：415-592-8938"
     tel2: "" # if there are two phone numbers
     tel2InsteadText: ""
     getDirectionBtnInsteadText: "帶我去餐廳"
