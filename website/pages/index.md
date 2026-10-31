@@ -89,7 +89,7 @@ sections:
     btn1Text: "See MENU & Order"
     btn1Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b"
     btn2Text: "Tel: 415-592-8938"
-    btn2Href: "tel: 415-592-8938"
+    btn2Href: "tel:415-592-8938"
 
     bannerImg: ""
     imgPosition: "imgLeft" # imgLeft | imgRight
@@ -131,7 +131,7 @@ sections:
 
   # Gallery - menu
   - type: "gallery"
-    id: "gallery"
+    id: "gallery-2"
     mode: 4 # 1 - 4 # 1 - 3
     bgImg: ""
     bgColor: ""
