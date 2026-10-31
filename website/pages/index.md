@@ -305,7 +305,7 @@ footer:
   cookie: true
   mode: 1 # 1
   noMarginTop: true
-  bgImg: "gallery2/001_Dim Sum Club interior.webp"
+  bgImg: "gallery2/001_Dining Room with Round Banquet Table.webp"
   bgColor: "#000"
   bgOpacity: "0.7" # 0~1
   textColor: "#fff" # default white
