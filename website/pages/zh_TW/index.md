@@ -129,6 +129,22 @@ sections:
       - "快来品尝我们精选的美味佳肴，甘香流沙包、水晶蝦餃皇、上海小籠包、百花釀茄子、豉汁排骨 ......"
     descriptionColor: "#333333"
     folderPath: "gallery1"
+    altOverrides:
+      "001_Pan-Fried Turnip Cake Slices": "Pan-Fried Turnip Cake"
+      "002_Green Vegetable Dumplings in Bowl": "Green Vegetable Dumplings"
+      "003_Fried Crab Rangoon": "Crab Rangoon"
+      "004_Pan-Fried Pork Buns with Scallions": "Pan-Fried Round Buns with Scallions"
+      "005_Steamed Soup Dumplings in Bamboo Steamer": "Xiaolongbao Soup Dumplings"
+      "006_Steamed Shrimp Dumplings": "Shrimp Dumplings (Har Gow)"
+      "007_Steamed Rice Wraps in Bamboo Steamer": "Steamed Rice Paper Wraps"
+      "008_Steamed Crystal Dumplings with Greens": "Chive and Shrimp Dumplings"
+      "009_Pork Shumai": "Pork Siu Mai"
+      "010_Steamed White Buns in Bamboo Steamer": "Steamed White Buns"
+      "011_Steamed Golden Custard Buns": "Steamed Custard Buns"
+      "013_Braised Chicken Feet with Green Chili": "Braised Chicken Feet"
+      "015_Pan-Fried Round Buns with Scallion and Sesame": "Pan-Fried Buns with Sesame and Scallions"
+      "018_Rice Noodle Rolls with Herbs and Choy Sum": "Rice Noodle Rolls with Cilantro and Choy Sum"
+      "019_Plain Rice Noodle Rolls with Choy Sum": "Rice Noodle Rolls with Choy Sum"
     showImgName: false # true | false
     imgNameColor: "#000000"
     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
@@ -147,6 +163,13 @@ sections:
       - "快來開啟您的美味之旅！"
     descriptionColor: "#333333"
     folderPath: "gallery"
+    altOverrides:
+      "001_Shrimp with Bean Sprouts in Red Pepper Ring": "Shrimp on Shredded Vegetables"
+      "002_Walnut Shrimp on Square Plate": "Walnut Shrimp"
+      "003_Sliced Beef with Peanuts and Sesame Seeds": "Spicy Sliced Dish with Peanuts and Sesame Seeds"
+      "013_Roast Duck Platter": "Roast Duck"
+      "015_Crispy Fried Chicken with Green Chilies": "Crispy Battered Fried Dish with Green Chilies"
+      "016_Walnut Shrimp Close-Up with Orchid Garnish": "Walnut Shrimp"
     showImgName: false # true | false
     imgNameColor: "#000000"
     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
@@ -180,6 +203,11 @@ sections:
       - ""
     descriptionColor: "#333333"
     folderPath: "gallery2"
+    altOverrides:
+      "001_Dining Room with Round Banquet Table": "Dim Sum Club Dining Room"
+      "002_Dining Room with Wall Mural and Tables": "Dim Sum Club Dining Room Near Entrance"
+      "003_Storefront with Grand Opening Banner": "Dim Sum Club Storefront"
+      "004_Entrance Door with Grand Opening Banner": "Dim Sum Club Storefront Entrance"
     showImgName: false # true | false
     imgNameColor: "#000000"
     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
