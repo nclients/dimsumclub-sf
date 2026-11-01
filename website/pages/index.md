@@ -160,7 +160,7 @@ sections:
     descriptionColor: "#333333"
     folderPath: "gallery"
     altOverrides:
-      "001_Shrimp with Bean Sprouts in Red Pepper Ring": "Shrimp on Shredded Vegetables"
+      "001_Shrimp with Bean Sprouts in Red Pepper Ring": "Shrimp on Shredded Vegetables with Cilantro"
       "002_Walnut Shrimp on Square Plate": "Walnut Shrimp"
       "003_Sliced Beef with Peanuts and Sesame Seeds": "Beef and Tripe in Chili Oil (Fuqi Feipian)"
       "013_Roast Duck Platter": "Roast Duck"
